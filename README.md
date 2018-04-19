@@ -1,2 +1,2 @@
 # Kaggle Competition | Titanic Machine Learning from Disaster
-![img](https://imgur.com/rE0qbEl)
+![img](https://i.imgur.com/rE0qbEl.jpg)
